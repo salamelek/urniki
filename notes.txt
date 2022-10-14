@@ -1,0 +1,23 @@
+Profesorji:
+    prosti dnevi
+    delavne ure in ure na razpolago ločene od prostih ur (proste ure morajo biti čim več skupaj)
+
+Učenci:
+    kdaj morajo bit dvojne ure
+    vse ure morajo biti ločene idealno
+    Kdaj morajo biti razporejene določene ure (mat, špo, ver)
+
+
+
+"mat": {"ure": 5, "pref_hour": 0, "double_hrs": 0},
+"ita": {"ure": 4, "pref_hour": None, "double_hrs": 1},
+"slo": {"ure": 4, "pref_hour": None, "double_hrs": 1},
+"inf": {"ure": 2, "pref_hour": None, "double_hrs": 0},
+"ver": {"ure": 1, "pref_hour": (0, 7), "double_hrs": 0},
+"nar": {"ure": 5, "pref_hour": None, "double_hrs": 0},
+"fiz": {"ure": 3, "pref_hour": None, "double_hrs": 0},
+"fil": {"ure": 2, "pref_hour": None, "double_hrs": 0},
+"spo": {"ure": 2, "pref_hour": None, "double_hrs": 1},
+"ang": {"ure": 3, "pref_hour": None, "double_hrs": 0},
+"lik": {"ure": 2, "pref_hour": None, "double_hrs": 0},
+"zgo": {"ure": 2, "pref_hour": None, "double_hrs": 0}
